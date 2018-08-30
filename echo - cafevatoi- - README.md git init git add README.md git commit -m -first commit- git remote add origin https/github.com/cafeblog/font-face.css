@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'fontmoi';
-    src: url('font.woff2') format('woff2'),
-         url('font.woff') format('woff');
+    src: url('font-moi.woff2') format('woff2'),
+         url('font-moi.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
